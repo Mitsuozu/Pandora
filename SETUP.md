@@ -13,8 +13,8 @@ These steps install PandoraV2 on a new Windows computer and, if you want, copy t
 ## 2. Get the code
 
 ```powershell
-git clone https://github.com/Mitsuozu/PandoraV2.git
-cd PandoraV2
+git clone https://github.com/Mitsuozu/Pandora.git
+cd Pandora
 python -m venv .venv
 .\.venv\Scripts\pip install -r projectsite\requirements.txt
 ```
